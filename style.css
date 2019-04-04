@@ -1,0 +1,19 @@
+.regist{
+	padding: 2px;
+	background: #d6d5d7;
+	width: 80px;
+	border-spacing: 0;
+	border-style: solid;
+	border-radius: 2px;
+	border-color: green;
+	margin-left: 30px;
+}
+
+.regist:hover{
+	color: white;
+	background: green;
+}
+
+div ul li a:hover{
+	color: green;
+}
